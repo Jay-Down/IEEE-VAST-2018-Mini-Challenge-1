@@ -19,3 +19,6 @@ This notebook was not marked and is uploaded here as a working file, i.e. not cl
 The test clips' waveforms were then dynamically displayed alongside species exemplars, such that the user can interactively select test clips and species clips and compare them so as to visually confirm the model classification. To increase visual diagnostic ability, there is also the option to carry out a Fourier transform on the clips so as to plot the spectrograms.
 
 This was made dynamic and interactive using ipywidgets and the Dashboard extension for Jupyter (https://jupyter-dashboards-layout.readthedocs.io/en/latest/index.html).
+
+
+** Github occasionally struggles to render large .ipynb files; if they are not displaying, please paste the whole URL into nb viewer (https://nbviewer.jupyter.org/). **
