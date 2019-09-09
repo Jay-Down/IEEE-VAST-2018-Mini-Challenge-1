@@ -12,6 +12,8 @@ Birdcall_classifier.ipynb reads in audio files, extracts MFCC features and train
 
 This trained model is then used to predict classifications for each of the test clips provided by Kasios.
 
+This notebook was not marked and is uploaded here as a working file, i.e. not cleaned and commented.
+
 ## Dashboard Visualisation
 
 The test clips' waveforms were then dynamically displayed alongside species exemplars, such that the user can interactively select test clips and species clips and compare them so as to visually confirm the model classification. To increase visual diagnostic ability, there is also the option to carry out a Fourier transform on the clips so as to plot the spectrograms.
