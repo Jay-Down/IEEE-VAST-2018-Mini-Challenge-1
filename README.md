@@ -21,4 +21,4 @@ The test clips' waveforms were then dynamically displayed alongside species exem
 This was made dynamic and interactive using ipywidgets and the Dashboard extension for Jupyter (https://jupyter-dashboards-layout.readthedocs.io/en/latest/index.html).
 
 
-** Github occasionally struggles to render large .ipynb files; if they are not displaying, please paste the whole URL into nb viewer (https://nbviewer.jupyter.org/). **
+**Github occasionally struggles to render large .ipynb files; if they are not displaying, please paste the whole URL into nb viewer (https://nbviewer.jupyter.org/).**
