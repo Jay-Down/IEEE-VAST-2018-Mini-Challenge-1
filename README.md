@@ -1,6 +1,6 @@
 # Audio Exploration Dashboard
 
-This real-time audio explorer was created in response to a coursework assignment for this Simulation and Visualisation module, which required students to pick and partially solve a Mini Challenge from the 2018 VAST Challenge (http://www.vacommunity.org/VAST+Challenge+2018).
+This real-time audio explorer was created in response to a coursework assignment for the Simulation and Visualisation module of King's College London's MSc Data Science course, which required students to pick and partially solve a Mini Challenge from the 2018 VAST Challenge (http://www.vacommunity.org/VAST+Challenge+2018).
 
 I chose to tackle the following objective from Mini Challenge 1 (http://vacommunity.org/VAST+Challenge+2018+MC1):
 
